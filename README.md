@@ -7,6 +7,6 @@
   <br>
   <br>
   <br>
-  <img src="https://media.giphy.com/media/hp3B51KbEi47HHUyVB/giphy.gif" width="350" />
+  <img src="https://media.giphy.com/media/nyqiMQhdsYTDO/giphy.gif" width="350" />
 </p>
 
