@@ -2,13 +2,11 @@
   <br>
   <br>
   <br>
-  <samp>Hello there. I'm <a href="https://selimdoyranli.com">Selim</a>.<br> I'm a UI Developer from Istanbul.<br><br>#javascript, #nuxtjs, #vuejs, #atomicdesign</samp>
+  <samp>Hello there. I'm <a href="https://github.com/INTERNALINTERFERENCE">Anton</a>.<br> I'm a C# Developer from Russia.<br><br>#c#, #reactjs, #aspnetcore, #atomicdesign</samp>
   <br>
   <br>
   <br>
   <br>
-  <img src="https://github.com/selimdoyranli/selimdoyranli/blob/master/preview.gif" width="350" />
+  <img src="https://media.giphy.com/media/hp3B51KbEi47HHUyVB/giphy.gif" width="350" />
 </p>
 
-------------
-<p align="center">⭐️ From <a href="https://github.com/selimdoyranli">@selimdoyranli</a></p>
